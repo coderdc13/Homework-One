@@ -78,7 +78,7 @@ https://yculz33w9skgdkhey8rajqm6-wpengine.netdna-ssl.com/wp-content/uploads/2019
 
 # CASE STUDY - metamask.io
 ![alt text](metamask.jpg)
-## The student author is compelled to compose a case study about metamask.io because of the potential influence of this firm and because of the shroud of obscurity that surrounds this firm.
+## The student author is compelled to compose a case study about metamask.io because of the potential influence of this firm and because of the shroud of obscurity that engulfs this firm.
 ## Overview and Origin
 ### Name of Company
 The name of the company is metamask.io. According to https://www.owler.com/company/metamask, this company is based in the San Francisco Bay (California, USA) area. According to https://www.linkedin.com/company/metamask, this company has 11-50 employees. The linkedin.com site lists the address as 500 Sansome Street, San Francisco (https://www.linkedin.com/company/metamask).
