@@ -129,6 +129,14 @@ https://www.reddit.com/r/ethereum/comments/3x97rg/aaron_davis_explains_the_diffe
 https://everipedia.org/wiki/lang_en/kumavis
 https://softwareengineeringdaily.com/2015/08/16/ethereum-with-aaron-davis/
 https://www.optimum-web.com/what-is-metamask/
+https://consensys.net/
+https://www.bitdegree.org/tutorials/metamask-wallet-review/#MetaMaskvsMyEtherWallet
+https://bitcoin.org/en/bitcoin-paper
+https://thenextweb.com/hardfork/2019/08/15/blockchain-investment-banking-industry-cryptocurrency-bitcoin-dlt/
+https://magic.link/
+https://www.bitski.com/
+https://www.portis.io/
+https://consensys.net/
 
 
 
