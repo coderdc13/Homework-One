@@ -77,7 +77,7 @@ https://yculz33w9skgdkhey8rajqm6-wpengine.netdna-ssl.com/wp-content/uploads/2019
 +++
 
 # CASE STUDY - metamask.io
-![alt text](hampgraphics.jpg)
+![alt text](metamask.jpg)
 ## Overview and Origin
 ### Name of Company
 The name of the company is Hampshire Trust Bank (HTB). According to https://www.thesavings.guru/bank-directory/186-hampshire-trust-bank, this bank was “originally based in Fareham [England].” From https://beta.companieshouse.gov.uk/company/01311315, this bank has also operated under the names Brutton Mortgage Investments (Hampshire) Limited, BMI (Hampshire) Limited, and Hampshire Trust PLC.
