@@ -112,13 +112,13 @@ Most likely, the major metric that companies in this domain would use is the num
 ### How is your company performing relative to competitors in the same domain?
 Up to this point, it is almost impossible to provide a depiction of performance, even of metamask.io. There simply is not enough data. Data on company performance is almost nonexistent.
 ### If you were to advise the company, what products or services would you suggest they offer? This could be something that a competitor offers, or use your imagination.
-The student author would attempt to dominate the other specialist banks by offering a free application that gives complete details and rates from competitors in real time. Providing this free application would encourage users to register for the application (on a digital arm of HTB, of course), and as the users would increase use of this application, the users would learn more about the parent company, that is, HTB itself. The free application would provide free value, encourage potential clients, and provide an edge over competitors.
+The student author would offer some activity that would encourage new users. Specifically, the student author would offer a promotion in which new users would acquire some free ethereum. Before the user acquires the ethereum, the user would have to go through a tutorial on metamask, pass a quiz based on the tutorial, make an account, and make a wallet.
 ### Why do you think that offering this product or service would benefit the company?
-The company is already depending on its use of Application Programming Interfaces (APIs). Creative leveraging of these APIs would benefit the company in that users of the proposed application would gain trust in the bank and then become clients of the bank. HTB would not have to exert much extra effort and could rely on its existing technological structures in a fine opportunity to gain more users and clients.
+This service would benefit the company because it would encourage more use, more users, and educate the public about blockchain technology and cryptocurrencies.
 ### What technology would this additional product or service utilize?
-The technologies utilized would include machine learning, blockchain, and data science in general.
+Based on what already exists in the metamask.io media sphere, this additional product would not require any real new effort or technology. Any previously unused technology would support traditional education for the existing blockchain technology. At most, the new program would involve a set of interactive video modules and quizzes.
 ### Why are these technologies appropriate for your solution?
-The proposed solution needs these technologies to render the service and also to draw any quantifiable value.
+The additional promotional service would leverage educational technology because this technology would help users leverage the blockchain and products like metamask with more confidence.
 ## Works Cited
 https://www.thesavings.guru/bank-directory/186-hampshire-trust-bank
 https://beta.companieshouse.gov.uk/company/01311315
